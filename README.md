@@ -2,7 +2,7 @@
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-felipe-marcelino-da-cruz-143b0010a/)
-[![portfolio](https://img.shields.io/badge/https://devjoaofelipe.epizy.com/)
+
 
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFelipe25&show_icons=true&theme=dark)
